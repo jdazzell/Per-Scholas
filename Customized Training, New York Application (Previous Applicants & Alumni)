@@ -314,7 +314,7 @@
                     height: auto !important;
                 }
             </style><div class=""><div class="wForm" id="4801272-WRPR" dir="ltr">
-<div class="codesection" id="code-4801272"><script type="text/javascript" src="//tfaforms.com/js/ga_crossdomain_tracking.js"></script></div>
+<div class="codesection" id="code-4801272"><script src="//tfaforms.com/js/ga_crossdomain_tracking.js" type="text/javascript"></script></div>
 <h3 class="wFormTitle" id="4801272-T">Customized Training by Per Scholas, New York<br>Prior Applicant/Alumni Application</h3>
 <form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="4801272" role="form" enctype="multipart/form-data">
 <div class="wfPage" id="wfPgIndex-1"><div class="section pageSection" id="tfa_2796">
@@ -324,7 +324,7 @@
 <div class="oneField field-container-D    " id="tfa_3019-D">
 <label id="tfa_3019-L" class="label preField reqMark" for="tfa_3019">Please select the course you are applying for</label><br><div class="inputWrapper"><select id="tfa_3019" name="tfa_3019" title="Please select the course you are applying for" aria-required="true" class="required"><option value="">Please select...</option>
 <option value="tfa_3039" id="tfa_3039" data-conditionals="#tfa_3096,#tfa_2610,#tfa_2617" class="">Java Developer</option>
-<option value="tfa_3092" id="tfa_3092" data-conditionals="#tfa_2610,#tfa_2617" class="">Women in Tech: AWS/Azure Developer</option>
+<option value="tfa_3092" id="tfa_3092" data-conditionals="#tfa_2610,#tfa_2617,#tfa_3100" class="">Women in Tech: AWS/Azure Developer</option>
 <option value="tfa_3029" id="tfa_3029" data-conditionals="#tfa_3096" class="">Data Engineering</option>
 <option value="tfa_3020" id="tfa_3020" data-conditionals="#tfa_3025" class="">Application Support Management (Software Support)</option>
 <option value="tfa_3075" id="tfa_3075" data-conditionals="#tfa_3096,#tfa_2610,#tfa_2617" class="">C# Basics</option>
@@ -414,7 +414,7 @@
 <label id="tfa_3083-L" class="label preField reqMark" for="tfa_3083">How would you describe your fluency with technology and digital skills?</label><br><div class="inputWrapper"><textarea aria-required="true" maxlength="1000" id="tfa_3083" name="tfa_3083" title="How would you describe your fluency with technology and digital skills?" class="required"></textarea></div>
 </div>
 <div class="oneField field-container-D    " id="tfa_3100-D" role="radiogroup" aria-labelledby="tfa_3100-L" data-tfa-labelledby="-L tfa_3100-L">
-<label id="tfa_3100-L" class="label preField reqMark">Have you already or previously attended a Cloud Engineering Training course?</label><br><div class="inputWrapper"><span id="tfa_3100" class="choices horizontal required"><span class="oneChoice"><input type="radio" value="tfa_3101" class="" id="tfa_3101" name="tfa_3100" aria-required="true" data-conditionals="#tfa_3085" aria-labelledby="tfa_3101-L" data-tfa-labelledby="tfa_3100-L tfa_3101-L"><label class="label postField" id="tfa_3101-L" for="tfa_3101"><span class="input-radio-faux"></span>Yes</label></span><span class="oneChoice"><input type="radio" value="tfa_3102" class="" id="tfa_3102" name="tfa_3100" aria-required="true" aria-labelledby="tfa_3102-L" data-tfa-labelledby="tfa_3100-L tfa_3102-L"><label class="label postField" id="tfa_3102-L" for="tfa_3102"><span class="input-radio-faux"></span>No</label></span></span></div>
+<label id="tfa_3100-L" class="label preField reqMark">Have you already or previously attended a Cloud Engineering Training course?</label><br><div class="inputWrapper"><span id="tfa_3100" class="choices horizontal required" data-condition="`#tfa_3092`"><span class="oneChoice"><input type="radio" value="tfa_3101" class="" id="tfa_3101" name="tfa_3100" aria-required="true" data-conditionals="#tfa_3085" aria-labelledby="tfa_3101-L" data-tfa-labelledby="tfa_3100-L tfa_3101-L"><label class="label postField" id="tfa_3101-L" for="tfa_3101"><span class="input-radio-faux"></span>Yes</label></span><span class="oneChoice"><input type="radio" value="tfa_3102" class="" id="tfa_3102" name="tfa_3100" aria-required="true" aria-labelledby="tfa_3102-L" data-tfa-labelledby="tfa_3100-L tfa_3102-L"><label class="label postField" id="tfa_3102-L" for="tfa_3102"><span class="input-radio-faux"></span>No</label></span></span></div>
 </div>
 <div class="oneField field-container-D    " id="tfa_3085-D">
 <label id="tfa_3085-L" class="label preField reqMark" for="tfa_3085">Please specify the details of the Cloud Engineering Training course you attended, such as, when you attended the training, the institution that provided the training, key concepts learned, etc.</label><br><div class="inputWrapper"><textarea aria-required="true" maxlength="1000" id="tfa_3085" name="tfa_3085" data-condition="`#tfa_3101`" title="Please specify the details of the Cloud Engineering Training course you attended, such as, when you attended the training, the institution that provided the training, key concepts learned, etc." class="required"></textarea></div>
@@ -431,7 +431,7 @@
 </div></div>
 <div class="actions" id="4801272-A"><input type="submit" data-label="Submit" class="primaryAction" id="submit_button" value="Submit"></div>
 <div style="clear:both"></div>
-<input type="hidden" value="4801272" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="03507c2453ccf707c2a8fb849f9950e7" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="10" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+<input type="hidden" value="4801272" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="03507c2453ccf707c2a8fb849f9950e7" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="11" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
 </form>
 </div></div><div class="wFormFooter"><p class="supportInfo"><a target="new" class="contactInfoLink" href="https://www.tfaforms.com/forms/help/4625762">Contact Information</a><br></p></div>
   <p class="supportInfo" >
